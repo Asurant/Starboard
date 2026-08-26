@@ -55,3 +55,11 @@ Just some simple fixes. Got the LDO on the top and also had to move around some 
 <img width="385" height="606" alt="image" src="https://github.com/user-attachments/assets/63beba64-8102-4f0a-94a7-d4c950fe56fa" />
 
 ## Time Spent: 0.5 Hours
+
+## 8/22/2026 - Silkscreen
+I just realized I never did the devlog for the silkscreen and all. I basically experimented with a bunch of designs and tried them out. Originally put in too many stars but later I wanted to see how it would look if I connected all the vias with a silkscreen and it ended up looking a bit nice. I decided that I could probably name the devboard something like Starboard cause of all the star designs.
+
+<img width="391" height="568" alt="image" src="https://github.com/user-attachments/assets/1af2edc3-ee95-4618-9666-5a387d477a93" />
+
+## Time Spent: 1.5 Hours
+
