@@ -11,6 +11,8 @@ The Starboard is a 2 layer USB C devboard that I made using a PY32 chip. It has 
 <img width="330" height="531" alt="image" src="https://github.com/user-attachments/assets/598e2118-a8b7-448e-a0d7-aafb50751834" />
 
 ## BOM
+(Please note prices take into factor the minimum buy amounts for each part)
+### 1 PCB
 | Part                   | Quantity | Price  | LCSC Number |
 |------------------------|----------|--------|-------------|
 | Capacitors (1uF)       | 3        | $0.42  | C116352     |
@@ -28,3 +30,21 @@ The Starboard is a 2 layer USB C devboard that I made using a PY32 chip. It has 
 | Total Without Shipping |          | $10.31 |             |
 | Shipping               |          | $15.99 |             |
 | Total With Shipping    |          | $26.30 |             |
+### 5 PCBs
+| Part                   | Quantity | Price  | LCSC Number |
+|------------------------|----------|--------|-------------|
+| Capacitors (1uF)       | 15       | $0.42  | C116352     |
+| Capacitors (100nF)     | 10       | $0.13  | C344180     |
+| Micro SD Slot          | 5        | $0.63  | C393941     |
+| 1x09 Pin Header        | 10       | $0.46  | C492408     |
+| Resistor (5.1k)        | 10       | $0.22  | C2930296    |
+| Resistor (10k)         | 5        | $0.17  | C54921249   |
+| Tactile Switch         | 20       | $1.06  | C720477     |
+| CH340N                 | 5        | $3.39  | C2977777    |
+| ME6211A33M3G-N         | 5        | $0.63  | C168807     |
+| PY32F002BF15P6TR       | 5        | $0.93  | C22438998   |
+| USB C                  | 5        | $1.41  | C2765186    |
+| PCB                    | 5        | $4.10  |             |
+| Total Without Shipping |          | $13.55 |             |
+| Shipping               |          | $19.02 |             |
+| Total With Shipping    |          | $32.57 |             |
