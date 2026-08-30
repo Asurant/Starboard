@@ -74,3 +74,11 @@ I spent my time fixing up the issues. Realized that the CD slot is different tha
 <img width="737" height="755" alt="image" src="https://github.com/user-attachments/assets/95563d7c-4de5-4e01-bbc0-abfff2e95da5" />  
 <img width="1048" height="556" alt="image" src="https://github.com/user-attachments/assets/eb824143-56fb-47ce-8946-34236966018b" />  
 ## Time Spent: 0.7 Hours
+
+## 8/29/2026 - Routing and Major Design Change
+I tried to do all the routing and got all the signal traces done well however when it finally came to routing the power traces, I discovered my design ended up blocking out power traces for the MicroSD. I couldn't really use a via to go under on a 2 layer pcb because it was a high speed data line. I ended up deciding to use a 4 layer pcb in order to solve all the issues I was having with signal integrity. This however does mean the PCB will now be costing a few dollars more. I remembered JLCPCB offering an additional discount for 4 layer pcbs below 50mmx50mm so I adjusted the components a bit in order to save some money. However it turns out that I misremembered and the only discount was for pcbs below 100mm by 100mm.
+2 Layer:
+<img width="613" height="717" alt="image" src="https://github.com/user-attachments/assets/0a92a5ab-bf2d-4304-8d69-75c5e10f01ed" />
+Redesign:
+<img width="497" height="602" alt="image" src="https://github.com/user-attachments/assets/21388030-4eb2-4cee-a837-aaf8fdf1863a" />
+## Time Spent: 1.7 Hours
