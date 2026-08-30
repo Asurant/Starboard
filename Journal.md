@@ -63,3 +63,14 @@ I just realized I never did the devlog for the silkscreen and all. I basically e
 
 ## Time Spent: 1.5 Hours
 
+## 8/29/2026 - New Design Planning
+Turns out there were quite the few issues. I never really learned signal integrity before and only just learned my current design was causing many issues because of it's amount of vias. Also learned the fact that I'm supposed to keep a ground pour below were I have high speed signals. So I spent a good amount of time trying to figure out how to fix it. Originally I was drawing out my plan on the routing part but decided to move over the schematics since it would work out better. I also was trying to use PA5 as my MicroSD's SPI clock which isn't correct. So I decided to switch it over to PB0. I also decided to split my buttons and have the microSD in between them. It's better to have a working project than one that's meant to be space efficient.  
+<img width="632" height="638" alt="image" src="https://github.com/user-attachments/assets/78ba079d-59ac-4e9a-9182-177f9cac97d1" />  
+<img width="1001" height="792" alt="image" src="https://github.com/user-attachments/assets/e1af1530-3496-4d28-952c-fbd369842bb0" />  
+## Time Spent: 2 Hours
+
+## 8/29/2026 - Finished Schematic Fixes
+I spent my time fixing up the issues. Realized that the CD slot is different than the CS slot so I fixed that mistake. Also moved the SPI Clock to be PB2 in order to keep better signal integrity since using PB0 would've required me to use a via for another trace. I also ended up having to switch up the header connections greatly. I ended up with a huge mismatch with the amount of IO pins on both sides so I ended up keeping all the button pins on the left side while the right side was mainly the leftover IO pins. Sadly this means that there is not BOOT or NRST headers on the right side. I also moved the GND header to be next to the VBUS since I read that was a good thing to do.  
+<img width="737" height="755" alt="image" src="https://github.com/user-attachments/assets/95563d7c-4de5-4e01-bbc0-abfff2e95da5" />  
+<img width="1048" height="556" alt="image" src="https://github.com/user-attachments/assets/eb824143-56fb-47ce-8946-34236966018b" />  
+## Time Spent: 0.7 Hours
