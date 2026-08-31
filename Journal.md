@@ -77,8 +77,12 @@ I spent my time fixing up the issues. Realized that the CD slot is different tha
 
 ## 8/29/2026 - Routing and Major Design Change
 I tried to do all the routing and got all the signal traces done well however when it finally came to routing the power traces, I discovered my design ended up blocking out power traces for the MicroSD. I couldn't really use a via to go under on a 2 layer pcb because it was a high speed data line. I ended up deciding to use a 4 layer pcb in order to solve all the issues I was having with signal integrity. This however does mean the PCB will now be costing a few dollars more. I remembered JLCPCB offering an additional discount for 4 layer pcbs below 50mmx50mm so I adjusted the components a bit in order to save some money. However it turns out that I misremembered and the only discount was for pcbs below 100mm by 100mm.
-2 Layer:
+2 Layer:  
 <img width="613" height="717" alt="image" src="https://github.com/user-attachments/assets/0a92a5ab-bf2d-4304-8d69-75c5e10f01ed" />
-Redesign:
+Redesign:  
 <img width="497" height="602" alt="image" src="https://github.com/user-attachments/assets/21388030-4eb2-4cee-a837-aaf8fdf1863a" />
 ## Time Spent: 1.7 Hours
+## 8/29/2026 - Routing Progress
+So I got all the 4 layer pcb stuff working partially. I got a ground pour filling 1 of the internal layers so that solved many of my issues with signal integrity. After that everything else routed fine. Only thing I will need to do is go through everything properly and make sure nothing is broken since I do believe I have made a few mistake with my internal layers. For example, I do believe there was a different trace length necessary for internal traces which I will need to fix for my +3.3V traces.
+<img width="660" height="832" alt="image" src="https://github.com/user-attachments/assets/5cf360ac-e5fd-4bee-ac9e-38e1de650f9c" />
+## Time Spent: 0.7 Hours
