@@ -86,3 +86,9 @@ Redesign:
 So I got all the 4 layer pcb stuff working partially. I got a ground pour filling 1 of the internal layers so that solved many of my issues with signal integrity. After that everything else routed fine. Only thing I will need to do is go through everything properly and make sure nothing is broken since I do believe I have made a few mistake with my internal layers. For example, I do believe there was a different trace length necessary for internal traces which I will need to fix for my +3.3V traces.
 <img width="660" height="832" alt="image" src="https://github.com/user-attachments/assets/5cf360ac-e5fd-4bee-ac9e-38e1de650f9c" />
 ## Time Spent: 0.7 Hours
+
+## 8/29/2026 - Fixed Routing + Edge Cuts
+A small devlog today. I fixed the issues with the routing like the 90 degree turns. Increased the trace widths of the inner layers in order for the heat the dissipate better. Was contemplating replacing it with a solid fill but decided it was best not to. I also added the edge cuts and rounded the corners. My previous design with the dog constellation shape using the vias probably won't work out anymore so I'll need to try making a new design next time.  
+<img width="580" height="666" alt="image" src="https://github.com/user-attachments/assets/c141219b-a364-4759-ac18-b31bab82a3ea" />  
+
+## Time Spent: 0.3 Hours
