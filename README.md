@@ -1,14 +1,17 @@
 # Starboard
-The Starboard is a 2 layer USB C devboard that I made using a PY32 chip. It has two 9-pin headers, each offering VBUS, +3.3V, and GND along with 4 IO pins, NRST, and BOOT. Along with this it offers the ability to use a microSD to store code for the devboard. Currently I have not made the physical pcb for this. Currently only the files exist.
+The Starboard is a 4 layer USB C devboard that I made using a PY32 chip. It has two 9-pin headers, each offering VBUS, +3.3V, and GND along with 4 IO pins, NRST, and BOOT. Along with this it offers the ability to use a microSD to store code for the devboard. Currently I have not made the physical pcb for this. Currently only the files exist.
 | Top View | Bottom View |
 |---|---|
-| <img width="422" height="573" alt="image" src="https://github.com/user-attachments/assets/22768a42-0e91-44fe-9cfe-e473542f997d" /> | <img width="348" height="521" alt="image" src="https://github.com/user-attachments/assets/519eb97e-5e84-4f1a-8bed-ecd6f62d7c3a" /> |
+| <img width="467" height="572" alt="image" src="https://github.com/user-attachments/assets/8da0f528-af2e-484e-acbb-8b199e3131ad" /> | <img width="421" height="512" alt="image" src="https://github.com/user-attachments/assets/e625036b-3063-4e3a-8cad-fef5bc169543" />
+ |
 
 ## Schematic
-<img width="997" height="492" alt="image" src="https://github.com/user-attachments/assets/aa711f2e-d4c1-4e6a-b391-650b60e89a8f" />
+<img width="1372" height="731" alt="image" src="https://github.com/user-attachments/assets/0d563418-c5a0-4bd3-8f2d-6058cebd885c" />
+
 
 ## PCB
-<img width="330" height="531" alt="image" src="https://github.com/user-attachments/assets/598e2118-a8b7-448e-a0d7-aafb50751834" />
+<img width="506" height="618" alt="image" src="https://github.com/user-attachments/assets/d6c8bac2-fd9a-4bcd-a3a5-0d52e920fd52" />
+
 
 ## BOM
 (Please note prices take into factor the minimum buy amounts for each part)
