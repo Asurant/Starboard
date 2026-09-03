@@ -15,36 +15,36 @@ The Starboard is a 2 layer USB C devboard that I made using a PY32 chip. It has 
 ### 1 PCB
 | Part                   | Quantity | Price  | LCSC Number |
 |------------------------|----------|--------|-------------|
-| Capacitors (1uF)       | 3        | $0.42  | C116352     |
-| Capacitors (100nF)     | 2        | $0.13  | C344180     |
+| Capacitors (1uF)       | 4        | $0.42  | C116352     |
+| Capacitors (100nF)     | 4        | $0.13  | C344180     |
 | Micro SD Slot          | 1        | $0.63  | C393941     |
 | 1x09 Pin Header        | 2        | $0.46  | C492408     |
 | Resistor (5.1k)        | 2        | $0.22  | C2930296    |
-| Resistor (10k)         | 1        | $0.17  | C54921249   |
+| Resistor (10k)         | 3        | $0.17  | C54921249   |
 | Tactile Switch         | 4        | $0.53  | C720477     |
 | CH340N                 | 1        | $0.68  | C2977777    |
 | ME6211A33M3G-N         | 1        | $0.63  | C168807     |
 | PY32F002BF15P6TR       | 1        | $0.93  | C22438998   |
 | USB C                  | 1        | $1.41  | C2765186    |
-| PCB                    | 5        | $4.10  |             |
-| Total Without Shipping |          | $10.31 |             |
-| Shipping               |          | $15.99 |             |
-| Total With Shipping    |          | $26.30 |             |
+| PCB                    | 5        | $7.00  |             |
+| Total Without Shipping |          | $13.21 |             |
+| Shipping               |          | $19.20 |             |
+| Total With Shipping    |          | $32.40 |             |
 ### 5 PCBs
 | Part                   | Quantity | Price  | LCSC Number |
 |------------------------|----------|--------|-------------|
-| Capacitors (1uF)       | 15       | $0.42  | C116352     |
-| Capacitors (100nF)     | 10       | $0.13  | C344180     |
+| Capacitors (1uF)       | 20       | $0.42  | C116352     |
+| Capacitors (100nF)     | 20       | $0.13  | C344180     |
 | Micro SD Slot          | 5        | $0.63  | C393941     |
 | 1x09 Pin Header        | 10       | $0.46  | C492408     |
 | Resistor (5.1k)        | 10       | $0.22  | C2930296    |
-| Resistor (10k)         | 5        | $0.17  | C54921249   |
+| Resistor (10k)         | 15       | $0.17  | C54921249   |
 | Tactile Switch         | 20       | $1.06  | C720477     |
 | CH340N                 | 5        | $3.39  | C2977777    |
 | ME6211A33M3G-N         | 5        | $0.63  | C168807     |
 | PY32F002BF15P6TR       | 5        | $0.93  | C22438998   |
 | USB C                  | 5        | $1.41  | C2765186    |
-| PCB                    | 5        | $4.10  |             |
-| Total Without Shipping |          | $13.55 |             |
-| Shipping               |          | $19.02 |             |
-| Total With Shipping    |          | $32.57 |             |
+| PCB                    | 5        | $7.00  |             |
+| Total Without Shipping |          | $16.45 |             |
+| Shipping               |          | $19.20 |             |
+| Total With Shipping    |          | $35.65 |             |

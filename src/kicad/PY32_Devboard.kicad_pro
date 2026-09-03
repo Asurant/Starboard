@@ -693,7 +693,7 @@
         "uuid": "15211cc6-9cd4-40b6-904a-51dc3d300dca"
       }
     ],
-    "used_designators": "USB1",
+    "used_designators": "R7-8,#PWR39-40",
     "variants": []
   },
   "sheets": [
