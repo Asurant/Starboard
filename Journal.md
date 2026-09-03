@@ -94,7 +94,8 @@ A small devlog today. I fixed the issues with the routing like the 90 degree tur
 ## Time Spent: 0.3 Hours
 
 ## 9/3/2026 - Design and More Fixes
-I added all the silkscreens. Was originally planning to change the back silkscreen with the new vias, but I decided to keep the dog constellation shape. I just liked it too much to get rid of it. Along with that I added in pull up resistors for the switches. It should be ready to submit now, just gotta add all the files into github.
+I added all the silkscreens. Was originally planning to change the back silkscreen with the new vias, but I decided to keep the dog constellation shape. I just liked it too much to get rid of it. Along with that I added in pull up resistors for the switches. It should be ready to submit now, just gotta add all the files into github.  
+<img width="498" height="628" alt="image" src="https://github.com/user-attachments/assets/ba529dea-e394-4283-8cbb-04e45f957978" />  
 
 ## Time Spent: 0.8 Hours
 
